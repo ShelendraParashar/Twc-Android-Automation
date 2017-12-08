@@ -5,4 +5,3 @@ deviceName=HTC
 autoGrantPermissions=true
 browserName=""
 url=http://172.26.16.59:4723/wd/hub
-test data
